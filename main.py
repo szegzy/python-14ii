@@ -8,7 +8,7 @@ try:
 	first = float(input("Enter the first number: "))
 	second = float(input("Enter the second number: "))
 	print("addition:", add(first, second))
-	print("power:", power(first second))
+	print("power:", power(first, second))
 	print("subtraction:", subtract(first, second))
 	print("multiplication:", multiply(first, second))
 	print("division:", division(first, second))
